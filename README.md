@@ -1,16 +1,16 @@
-### Hi there 👋
+# David Pitta
 
-<!--
-**davidpitta/davidpitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davidfrpitta/)
+- 💻 Working on Banco do Brasil
+- 📖 Undergraduate in the 5th semester of Computer Science at Uniceub
+- 📚 Currently learning Angular
+- 📧 Mail: davidfrpitta@gmail.com
 
-Here are some ideas to get you started:
+## Technologies
+<img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css,bootstrap,fastapi,flask,git" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpitta&layout=donut&theme=dracula" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=davidpitta&show_icons=true&theme=dracula" height="200" />
+</div>
