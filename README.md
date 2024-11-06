@@ -6,7 +6,7 @@
 - 📧 Mail: davidfrpitta@gmail.com
 
 ## Technologies
-<img src="https://skillicons.dev/icons?i=py,php,angular,ts,bootstrap,js,html,css,fastapi,flask,git" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,php,py,fastapi,flask,git" />
 
 ## Stats
 <div style="display: flex; justify-content: space-between;">
