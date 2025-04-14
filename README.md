@@ -2,7 +2,7 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davidfrpitta/)
 - 💻 Working on Banco do Brasil
-- 📖 Undergraduate in the 7th semester of Computer Science at Uniceub
+- 📖 Undergraduate in the 8th semester of Computer Science at Uniceub
 - 📧 Mail: davidfrpitta@gmail.com
 
 ## Technologies
